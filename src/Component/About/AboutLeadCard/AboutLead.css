@@ -1,0 +1,15 @@
+.AboutLead_Mobile{
+    height: 250px;
+    width: 290px;
+    display: flex;
+    align-items: flex-end;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 660px) {
+    .AboutLead_Mobile{
+        
+    }
+}

@@ -1,0 +1,12 @@
+.menu-sider {
+  font-size: 25px;
+  display: none;
+}
+
+@media screen and (max-width: 786px) {
+  .menu-sider {
+    display: block;
+    margin-right: 30px;
+    cursor: pointer;
+  }
+}
